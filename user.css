@@ -1,0 +1,42 @@
+@import url('https://raw.githubusercontent.com/sippawith/spicetify-font/main/iconic.css');
+
+:root {
+  --border-radius-1: 9px;
+  --border-radius-2: 7px;
+  --border-radius-3: 7px;
+  --glue-font-weight-normal: 400;
+  --glue-font-weight-bold: 600;
+  --glue-font-weight-black: 700;
+  --scrollbars: unset;
+  --scrollbar-vertical-size: 6px;
+  --filter-brightness: 1;
+  --green: #00ffa1;
+  --ms-motion-timing-decelerate: cubic-bezier(0.1, 0.9, 0.2, 1);
+}
+
+* {
+  font-family: 'Segoe UI Variable Display', 'Segoe UI Variable Text', 'Segoe UI', 'Microsoft Ya Hei',
+    sans-serif !important;
+  /* font-family: 'Segoe UI Variable Display','Segoe UI Variable Text', 'Microsoft Ya Hei', sans-serif !important; */
+  line-height: normal;
+  box-shadow: none !important;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  -webkit-mask-size: contain;
+}
+
+*{
+  font-family: 'FC Iconic', sans-serif !important;
+  font-size: 25px;
+  }
+  
+.lyrics-lyricsContent-lyric {
+  opacity: 50;
+  visibility: show;
+  animation-fill-mode: forwards;
+  transform-origin: var(--lyrics-text-direction);
+  margin: 0.3rem 0;
+  text-shadow: none;
+  transition: text-shadow 100ms ease, color 100ms ease;
+  font-size: 55px; /* Added font-size property */
+}
