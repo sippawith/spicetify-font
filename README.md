@@ -10,10 +10,12 @@
 ![image](https://github.com/sippawith/spicetify-font/assets/83801462/8fca4ee9-1866-4845-851c-7786fe4d9c10)
 
 ### เนื้อร้องอังกฤษ
-![image](https://github.com/sippawith/spicetify-font-fciconic/assets/83801462/158309f7-9c1e-4591-b352-afc0d67f9251)
+![image](https://github.com/sippawith/spicetify-font-fciconic/assets/83801462/62f7011b-ff94-4de2-8a8c-a891f270daaa)
+
 
 
 # ติดตั้ง
+## สำหรับผู้ที่ติดตั้ง spicetify แล้ว
 ดาวน์โหลดไฟล์ Theme ที่ [Download](https://github.com/sippawith/spicetify-font-fciconic/releases/download/font/fc-iconic.zip)
 แตกไฟล์และทำไปวางที่ C:\Users\username\AppData\Roaming\spicetify\Themes
 
