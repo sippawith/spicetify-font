@@ -2,9 +2,13 @@
 ### เปลี่ยนฟอนต์ไทยเป็น Fc Iconic ใน Spotify โดยใช้ Spicetify
 
 # หน้าตา
-![image](https://github.com/sippawith/spicetify-font/assets/83801462/eb081206-db1f-46fd-b838-0e3bd8ee08e5)
 
-![image](https://github.com/sippawith/spicetify-font/assets/83801462/7f3a44ca-6d1d-41c7-acd5-84b53544ef14)
+### หน้าหลัก
+![image](https://github.com/sippawith/spicetify-font/assets/83801462/e3fb8992-1e43-4d5e-9836-fa3f87a3931b)
+
+### เนื้อร้อง
+![image](https://github.com/sippawith/spicetify-font/assets/83801462/8fca4ee9-1866-4845-851c-7786fe4d9c10)
+
 
 # ติดตั้ง
 ดาวน์โหลดไฟล์ Theme ที่ [Download](https://github.com/sippawith/spicetify-font/releases/download/font/fc-iconic.zip)
@@ -22,3 +26,9 @@ spicetify apply
 ### https://www.fontcraftstudio.com/fc-iconic
 ### https://www.fontcraftstudio.com
 สามารถสนับสนุนผู้ทำฟ้อต์ได้ทางนี้เลยครับ
+![image](https://github.com/sippawith/spicetify-font/assets/83801462/d2136f55-7f71-4621-8255-a67eaf985173)
+
+
+
+# สรุป
+### ฟ้อนต์สวยขึ้นร้อยเท่า ขอบคุณครับ
